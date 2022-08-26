@@ -3,7 +3,7 @@ const routes = require('./routes');
 // import sequelize connection
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3001; //HEROKU COMPTABILE https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
