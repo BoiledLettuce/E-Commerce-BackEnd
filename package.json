@@ -1,9 +1,19 @@
 {
+  "name": "homework13",
+  "version": "1.0.0",
+  "description": "hello",
+  "engines": {
+    "npm": ">=3"
+  },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
-    "require": "^0.4.4"
+    "mysql2": "^2.3.3",
+    "require": "^0.4.4",
+    "sequelize": "^6.21.4"
   }
 }
