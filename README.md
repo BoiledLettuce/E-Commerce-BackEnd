@@ -18,7 +18,7 @@ An app that interacts with [Insomnia](https://insomnia.rest/download) for `GET`,
 * Routes to use: `http://localhost:3001/api/categories`, `/api/products`, `/api/tags`.
 * You can make it look like this: ![Preview Image](./Assets/Preview.JPG)
 
-* [Video Demo](https://www.joemama.com)
+* [Video Demo](https://www.youtube.com/watch?v=tdCNvp2MQfU)
                 
 
 ## Features
